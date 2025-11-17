@@ -1,0 +1,286 @@
+{
+  "Menu": {
+    "CMS": "CMS",
+    "CMSTooltip": " 智能、简便、无缝 — 校准更轻松 ",
+    "CRM": "CRM",
+    "CRMTooltip": "了解客户，发展业务。",
+    "PPAP": "PPAP",
+    "PPAPTooltip": "每个零件，每次，都确保质量。",
+    "AllProducts": "所有产品"
+  },
+  "Navbar": {
+    "Home": "首页",
+    "Features": "功能",
+    "Pricing": "定价",
+    "BookDemo": "预约演示",
+    "Brochure": "宣传册",
+    "Contact": "联系我们",
+    "SignIn": "登录",
+    "AllProducts": "所有产品"
+  },
+  "Hero": {
+    "Title": "为整个组织简化项目管理",
+    "Description": "更智能地规划、无缝协作、更快速交付—使用我们的全能项目管理软件。适用于各种规模团队，平台帮助您优化工作流程、实时追踪项目进展，并保持整个组织从规划到执行的高度一致。",
+    "Features": {
+      "ProjectTask": "项目与任务管理",
+      "TeamMember": "团队成员管理",
+      "GanttChart": "甘特图可视化"
+    },
+    "Buttons": {
+      "Contact": "联系我们",
+      "Demo": "观看演示"
+    }
+  },
+  "WhyChoose": {
+    "Title": "什么是 ",
+    "highlight": "项目管理",
+    "Desc": "项目管理是规划、组织和监督任务以在特定时间和预算内实现目标的过程。它涉及资源管理、团队协调、设置截止日期并跟踪进度，以确保项目成功交付。",
+    "Tagline": "为什么选择",
+    "MainHeading": "您的团队成功从 AceProject 开始",
+    "Subheading": "AceProject 不只是一个项目管理工具——它是一个完整的解决方案，帮助您的团队保持组织性、高效并按时交付。",
+    "P0": "基于角色的安全访问",
+    "P1": "适用于代理机构、初创公司和大型企业",
+    "P2": "无缝任务管理与协作",
+    "P3": "日历、仪表盘和甘特图整合于一体",
+    "P4": "通过最佳成员识别提升团队表现",
+    "P5": "洞察报告与可导出分析",
+    "LearnMore": "了解更多"
+  },
+  "Banner": {
+    "Title": "准备好优化您的项目报告了吗？",
+    "Description": "在一个地方全面了解项目、团队、任务和日程。",
+    "bookDemo": "今天就开始"
+  },
+  "Advantages": {
+    "Title": "项目报告功能",
+    "Description": "项目报告是收集、分析并与利益相关者共享项目状态、进度、绩效和成果等关键信息的过程。它有助于在整个项目生命周期中确保透明度、信息化决策和问责制。",
+    "Projects": {
+      "Title": "智能甘特图实现项目进度可视化",
+      "Description": "通过实时跟踪、明星成员高亮以及交互式甘特图，在统一的项目视图中更智能地管理项目。"
+    },
+    "ProjectReport": {
+      "Title": "数据驱动的项目分析与报告",
+      "Description": "项目报告汇总正在进行和已完成的项目，显示完成率、资源使用情况和实时状态，帮助团队跟踪进度、识别瓶颈并高效决策。"
+    },
+    "TeamReport": {
+      "Title": "智能团队分析与绩效报告",
+      "Description": "跟踪团队绩效，分析工作量分配，并通过清晰、可执行的洞察衡量个人贡献，以提高生产力。"
+    },
+    "TaskReport": {
+      "Title": "任务绩效与趋势报告",
+      "Description": "清晰了解任务状态、优先级、完成率和绩效趋势，以掌控团队生产力和截止日期。"
+    },
+    "CalendarReport": {
+      "Title": "活动热力图与截止日期日历报告",
+      "Description": "可视化团队活动，按天跟踪截止日期模式，并监控资源可用性——所有内容集成于一个优化排程和生产力的智能日历报告中。"
+    },
+    "ClientsTitle": "信任我们的品牌"
+  },
+  "Features": {
+    "Heading": "我们的服务",
+    "Description": "AceProject 帮助您的团队更智能规划、无缝协作、准时交付，提供直观任务管理、实时追踪和沟通——提升各种规模项目的生产力。",
+    "List": [
+      {
+        "Title": "多项目管理",
+        "Description": "轻松创建和管理多个项目，集中控制，实现无缝组织。"
+      },
+      {
+        "Title": "详细任务分配与追踪",
+        "Description": "在项目中定义细化任务，分配给团队成员，追踪进展、截止时间和完成率。"
+      },
+      {
+        "Title": "基于角色的团队成员管理",
+        "Description": "通过管理员、成员等可定制角色管理用户，确保安全和权限合适。"
+      },
+      {
+        "Title": "特定项目团队分配",
+        "Description": "为不同项目分配团队成员，并基于角色授权，优化协作与责任分工。"
+      },
+      {
+        "Title": "交互式甘特图可视化",
+        "Description": "通过动态甘特图可视化项目时间线、任务持续时间、依赖关系和截止日期。"
+      },
+      {
+        "Title": "可配置绩效指标",
+        "Description": "设定并调整绩效参数，基于完成度、质量和及时性评估团队贡献。"
+      },
+      {
+        "Title": "自动识别最佳成员",
+        "Description": "自动突出按时完成并交付高质量工作的高绩效成员。"
+      },
+      {
+        "Title": "洞察仪表盘",
+        "Description": "访问显示活跃项目、团队统计、即将截止和逾期任务的综合仪表盘。"
+      },
+      {
+        "Title": "自定义报告与分析",
+        "Description": "生成详细报告与可操作见解，分析项目健康状况、团队生产力并识别改进空间。"
+      }
+    ]
+  },
+  "Pricing": {
+    "Title": "订阅选项",
+    "Subtitle": "选择合适的计划来管理任务、团队和时间。",
+    "Yearly": "年付",
+    "user": "用户",
+    "Monthly": "月付",
+    "ContactUs": "联系我们",
+    "Plans": {
+      "name1": "标准",
+      "desc1": "管理项目所需的基本工具，简单明了。",
+      "button1": "立即订阅",
+      "name2": "高级",
+      "desc2": "提供更强的协作与控制功能",
+      "tag2": "智能升级",
+      "name3": "企业",
+      "desc3": "全面控制，深入洞察和高级支持——为规模化而生。",
+      "button3": "联系我们",
+      "tag3": "精英访问",
+      "Enterprisefeatures": [
+        "包含高级计划的所有功能。",
+        "完全可定制，满足您的需求。",
+        "量身定制的解决方案——让我们来聊聊"
+      ]
+    },
+    "FeaturesTitle": "关键功能：",
+    "Featureslist": {
+      "Unlimited": "无限制",
+      "Notification": "通知、最佳成员更新",
+      "fileSharing": "任务评论、文件共享",
+      "Chat": "聊天支持",
+      "DocSharing": "任务评论、文档共享",
+      "Priority": "优先支持/邮件/聊天",
+      "Projects": "项目",
+      "Storage": "存储",
+      "Task": "任务管理",
+      "Time": "时间跟踪",
+      "Gantt": "甘特图",
+      "Custom": "自定义工作流",
+      "Reporting": "报告",
+      "Integrations": "集成",
+      "collaboration": "协作功能",
+      "File": "文件附件",
+      "App": "移动应用",
+      "Support": "支持"
+    },
+    "Toggle": {
+      "ShowFeatures": "显示功能列表",
+      "ReadMore": "阅读更多",
+      "ShowLess": "收起"
+    }
+  },
+  "Testimonial": {
+    "Title": "真实客户反馈",
+    "name1": "Sathya",
+    "name2": "Arun Kumar",
+    "name3": "Vignesh",
+    "Quote1": "我们在选择此平台前评估了多个产品。其可扩展性、功能深度和客户支持确实出众。这对大型项目管理来说是一次变革。",
+    "Quote2": "管理多个项目和团队成员曾是一大挑战。现在一切都集中管理——从任务分配到时间线——我们的团队比以往更加协调一致。",
+    "Quote3": "作为一家成长中的企业，我们需要一个简单、强大且实惠的工具。该平台让我们井然有序，不再拖慢节奏。它已成为我们日常工作的重要组成部分。"
+  },
+  "Contact": {
+    "Title": "联系我们，",
+    "highlight": "立即预约您的演示！",
+    "code": "CN",
+    "Form": {
+      "Name": "姓名",
+      "Company": "公司名称",
+      "Email": "工作邮箱",
+      "Phone": "手机号",
+      "Location": "所在地区",
+      "Product": "感兴趣的产品",
+      "Queries": "咨询内容",
+      "Submit": "发送",
+      "Submitting": "发送中…",
+      "EmailError": "请输入有效的邮箱地址。",
+      "PhoneError": "请输入有效的手机号。"
+    },
+    "ContactInfo": {
+      "Title": "联系信息",
+      "EmailUs": "发送邮件给我们",
+      "CallUs": "致电我们",
+      "Hours": "周一至周六 10:00–18:30",
+      "VisitUs": "欢迎来访",
+      "Address": "印度钦奈市埃卡图唐加尔 Guindy 工业区 NSIC 软件技术商务园二楼 306 室"
+    },
+    "Messages": {
+      "Failure": "发送时出现问题，请稍后再试。",
+      "ValidationUnavailable": "电子邮件验证服务不可用。"
+    }
+  },
+  "Notification": {
+    "button": "预约演示",
+    "contact": "联系我们",
+    "para": "请填写表单，我们的专业产品顾问将尽快与您联系，了解您的需求，并为您的企业推荐最合适的解决方案。",
+    "write": "您也可以写信给我们："
+  },
+  "CallbackCard": {
+    "Heading": "需要帮助找到合适的产品吗？",
+    "highlight": "合适的产品",
+    "Subtitle": "有任何问题或产品需求？我们很乐意为您提供帮助。",
+    "contact": "联系我们",
+    "phone": "电话",
+    "email": "邮箱",
+    "Title": "最受欢迎的产品",
+    "feature1": "校准管理系统",
+    "feature2": "客户关系管理",
+    "tagline1": "通过可靠的校准管理提高生产力。",
+    "tagline2": "了解客户，建立信任，发展业务。",
+    "LearnMore": "了解更多"
+  },
+  "ThankYou": {
+    "Title": "感谢您的联系！",
+    "Subtitle": "感谢您抽出时间与我们联系。您的咨询对我们非常重要，我们很高兴为您提供帮助。",
+    "Review": "审核中",
+    "para": "我们的团队正在审核您的消息",
+    "Soon": "我们将很快回复您",
+    "Expect": "请在24小时内期待回复",
+    "Home": "返回首页",
+    "Chat": "在WhatsApp上聊天",
+    "Explore": "探索我们的产品",
+    "need": "需要立即帮助吗？请致电联系我们",
+    "Success": "成功！",
+    "form": "您的表单已成功提交"
+  },
+  "Footer": {
+    "contactUs": "联系我们",
+    "address": "#306, 二楼, NSIC软件技术商务园, B-24, Guindy工业区, Ekkatuthangal, 金奈-600032, 印度",
+    "links": {
+      "QuickLinks": "快速链接",
+      "help": "帮助",
+      "phone": "电话",
+      "email": "邮箱",
+      "Features": "功能",
+      "Pricing": "定价",
+      "Clients": "客户",
+      "Contact": "联系我们",
+      "productEnquiry": "产品咨询",
+      "bookDemo": "预约演示",
+      "privacy": "隐私政策",
+      "terms": "条款和条件"
+    },
+    "copyright": "© 版权 2025, 保留所有权利 "
+  },
+  "Popup": {
+    "Offer": "限时优惠",
+    "Try": "免费试用高级版！",
+    "Get": "获得完整访问权限",
+    "Platform": "平台15天",
+    "Free": "完全免费！",
+    "All": "包含所有高级功能：",
+    "Project": "项目管理",
+    "Easily": "- 轻松创建和管理项目",
+    "Task": "任务管理",
+    "Plan": "- 轻松规划、分配和跟踪任务",
+    "Team": "团队协作",
+    "Communicate": "- 实时沟通并共享更新",
+    "Advanced": "高级报告",
+    "Monitor": "- 监控项目进度并做出明智决策",
+    "Start": "开始我的免费试用",
+    "Credit": "无需信用卡",
+    "Cancel": "随时取消 • 完整高级访问 • 15天免费",
+    "Book": "预约您的",
+    "Live": "免费在线演示",
+    "Discover": "使用ACE Project简化项目管理。掌控任务，跟踪进度，与团队无缝协作 — 立即预约演示。"
+  }
+}

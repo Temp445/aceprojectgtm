@@ -1,0 +1,287 @@
+{
+  "Menu": {
+    "CMS": "CMS",
+    "CMSTooltip": " Smart, simple, and seamless — calibration made easy ",
+    "CRM": "CRM",
+    "CRMTooltip": "Know Your Customer. Grow Your Business.",
+    "PPAP": "PPAP",
+    "PPAPTooltip": "Ensuring Quality, Every Part, Every Time.",
+    "AllProducts": "All Products"
+  },
+  "Navbar": {
+    "Home": "Home",
+    "Features": "Features",
+    "Pricing": "Pricing",
+    "BookDemo": "Book A Demo",
+    "Clients": "Clients",
+    "Brochure": "Brochure",
+    "Contact": "Contact Us",
+    "SignIn": "Sign In",
+    "AllProducts": "All Products"
+  },
+  "Hero": {
+    "Title": "Simplify Project Management for Your Entire Organization",
+    "Description": "Plan smarter, collaborate seamlessly, and deliver projects faster with our all-in-one project management software. Designed for teams of all sizes, our platform helps you streamline workflows, track project progress in real time, and keep your entire organization aligned—from planning to execution.",
+    "Features": {
+      "ProjectTask": "Project & Task Management",
+      "TeamMember": "Team Member Management",
+      "GanttChart": "Gantt Chart Visualization"
+    },
+    "Buttons": {
+      "Contact": "Contact Us",
+      "Demo": "Watch Demo"
+    }
+  },
+  "WhyChoose": {
+    "Title": "What is ",
+    "highlight": "Project Management",
+    "Desc": "Project management is the process of planning, organizing, and overseeing tasks to achieve specific goals within a defined timeline and budget. It involves managing resources, coordinating team members, setting deadlines, and tracking progress to ensure successful project delivery.",
+    "Tagline": "Why Choose",
+    "MainHeading": "Your team’s success begins with AceProject",
+    "Subheading": "AceProject is more than just a project management tool—it’s a complete solution to help your team stay organized, productive, and on schedule.",
+    "P0": "Secure Role-Based Access",
+    "P1": "Perfect for Agencies, Startups, and Enterprises",
+    "P2": "Seamless Task Management & Collaboration",
+    "P3": "Calendar, Dashboard, and Gantt Integration in One Platform",
+    "P4": "Boost Team Performance with Star Player Recognition",
+    "P5": "Insightful Reports & Exportable Analytics",
+    "LearnMore": "Learn More"
+  },
+  "Banner": {
+    "Title": "Ready to streamline your project reporting?",
+    "Description": " Get comprehensive insights into your projects, teams, tasks, and schedules all in one place.",
+    "bookDemo": "Get Started Today"
+  },
+  "Advantages": {
+    "Title": "Projects Reporting Features",
+    "Description": "Project reporting is the process of collecting, analyzing, and sharing key information about a project’s status, progress, performance, and outcomes with stakeholders. It helps ensure transparency, informed decision-making, and accountability throughout the project lifecycle.",
+    "Projects": {
+      "Title": "Smart Gantt Chart for Visual Project Progress",
+      "Description": "Manage projects smarter with real-time tracking, star performer highlights, and an interactive Gantt chart—all within a unified project view."
+    },
+    "ProjectReport": {
+      "Title": "Insight-Driven Project Analytics & Reports",
+      "Description": "The Project Report summarizes ongoing and completed projects, showing completion rates, resource use, and real-time status to help teams track progress, identify bottlenecks, and decide efficiently."
+    },
+    "TeamReport": {
+      "Title": "Smart Team Analytics & Performance Report",
+      "Description": "Track team performance, analyze workload distribution, and measure individual contributions with clear, actionable insights to boost productivity."
+    },
+    "TaskReport": {
+      "Title": "Task Performance & Trend Report",
+      "Description": "Get a clear view of task status, priority levels, completion rates, and performance trends to stay on top of team productivity and deadlines."
+    },
+    "CalendarReport": {
+      "Title": "Activity Heatmap & Deadline Calendar Report",
+      "Description": "Visualize team activity, track deadline patterns by day, and monitor resource availability—all in one smart calendar report designed to optimize scheduling and productivity."
+    },
+    "ClientsTitle": "Brands That Trust Us"
+  },
+  "Features": {
+    "Heading": "What We Offer",
+    "Description": "AceProject helps your team plan smarter, collaborate seamlessly, and deliver on time with intuitive task management, real-time tracking, and streamlined communication—boosting productivity for projects of any size.",
+    "List": [
+      {
+        "Title": "Multi-Project Management",
+        "Description": "Easily create and oversee multiple projects with centralized control for seamless organization."
+      },
+      {
+        "Title": "Detailed Task Assignment & Tracking",
+        "Description": "Define granular tasks within projects, assign them to team members, and track progress, deadlines, and completion rates."
+      },
+      {
+        "Title": "Role-Based Team Member Management",
+        "Description": "Manage users with customizable roles such as Admin and Member, ensuring secure and appropriate access."
+      },
+      {
+        "Title": "Project-Specific Team Allocation",
+        "Description": "Assign team members to specific projects with role-specific permissions to optimize collaboration and responsibility."
+      },
+      {
+        "Title": "Interactive Gantt Chart Visualization",
+        "Description": "Visualize project timelines, task durations, dependencies, and deadlines through dynamic, easy-to-understand Gantt charts."
+      },
+      {
+        "Title": "Configurable Performance Metrics",
+        "Description": "Set and adjust performance parameters to evaluate team contributions based on completion, quality, and timeliness."
+      },
+      {
+        "Title": "Automatic Star Player Identification",
+        "Description": "Highlight top-performing team members automatically, recognizing those who excel in meeting deadlines and delivering quality work."
+      },
+      {
+        "Title": "Insightful Dashboards",
+        "Description": "Access comprehensive dashboards showcasing active projects, team stats, completed projects, upcoming deadlines, and overdue tasks."
+      },
+      {
+        "Title": "Custom Reports & Analytics",
+        "Description": "Generate detailed reports and actionable insights to analyze project health, team productivity, and identify areas for improvement."
+      }
+    ]
+  },
+  "Pricing": {
+    "Title": "Subscription Options",
+    "Subtitle": "Choose the right plan to manage tasks, teams, and timelines.",
+    "Yearly": "yearly",
+    "user": "user",
+    "Monthly": "monthly",
+    "ContactUs": "Contact Us",
+    "Plans": {
+      "name1": "Standard",
+      "desc1": "Essential tools to manage projects with ease and clarity.",
+      "button1": "Subscribe Now",
+      "name2": "Premium",
+      "desc2": "Advanced tools for better collaboration and control",
+      "tag2": "Smart Upgrade",
+      "name3": "Enterprise",
+      "desc3": "Full control, deep insights, and premium support — built for scale.",
+      "button3": "Contact Us",
+      "tag3": "Elite Access",
+      "Enterprisefeatures": [
+        "Everything in the Premium plan.",
+        "Fully customizable to your needs.",
+        "Solutions that suit you—let’s talk"
+      ]
+    },
+    "FeaturesTitle": "Key features:",
+    "Featureslist": {
+      "Unlimited": "Unlimited",
+      "Notification": "Notification, Star Player Update",
+      "fileSharing": "Task Comments, File Sharing",
+      "Chat": "Chat Support",
+      "DocSharing": "Task Comments, Document Sharing",
+      "Priority": "Priority Support/Email/Chat",
+      "Projects": "Projects",
+      "Storage": "Storage",
+      "Task": "Task Management",
+      "Time": "Time Tracking",
+      "Gantt": "Gantt Chart",
+      "Custom": "Custom Workflows",
+      "Reporting": "Reporting",
+      "Integrations": "Integrations",
+      "collaboration": "Collaboration Features",
+      "File": "File Attachments",
+      "App": "Mobile App",
+      "Support": "Support"
+    },
+    "Toggle": {
+      "ShowFeatures": "Features List",
+      "ReadMore": "Read More",
+      "ShowLess": "Show Less"
+    }
+  },
+  "Testimonial": {
+    "Title": "Authentic Customer Feedback",
+    "name1": "Sathya",
+    "name2": "Arun Kumar",
+    "name3": "Vignesh",
+    "Quote1": "We evaluated several platforms before choosing this one. The scalability, feature depth, and customer support truly stand out. It’s a game-changer for large-scale project oversight.",
+    "Quote2": "Managing multiple projects and team members used to be a headache. Now everything’s in one place — from task assignments to timelines — and our team is more aligned than ever.",
+    "Quote3": "As a growing business, we needed a tool that was simple, powerful, and affordable. This platform keeps us on track without slowing us down. It’s become essential to our daily workflow."
+  },
+  "Contact": {
+    "Title": "Get in touch and ",
+    "highlight": "schedule your demo now!",
+    "code": "IN",
+    "Form": {
+      "Name": "Name",
+      "Company": "Company Name",
+      "Email": "Business Email",
+      "Phone": "Mobile Number",
+      "Location": "Location",
+      "Product": "Product Interested",
+      "Queries": "Queries",
+      "Submit": "Send",
+      "Submitting": "Sending...",
+      "EmailError": "Please enter a valid email address.",
+      "PhoneError": "Please enter a valid phone number."
+    },
+    "ContactInfo": {
+      "Title": "Contact Information",
+      "EmailUs": "Email Us",
+      "CallUs": "Call Us",
+      "Hours": "Mon-Sat from 10am to 6:30pm",
+      "VisitUs": "Visit Us",
+      "Address": "#306, 2nd Floor NSIC - Software Technology Business Park, B 24, Guindy Industrial Estate, Ekkatuthangal, Chennai - 600032"
+    },
+    "Messages": {
+      "Failure": "There was an issue sending your message. Please try again later.",
+      "ValidationUnavailable": "Email validation service unavailable."
+    }
+  },
+  "Notification": {
+    "button": "Book A Demo",
+    "contact": "Contact Us",
+    "para": "Please fill out the form, and a qualified product expert will contact you shortly to understand your requirements and recommend the most suitable solution for your business.",
+    "write": "You can also write to us at:"
+  },
+  "CallbackCard": {
+    "Heading": "Need help finding what you need?",
+    "highlight": "right product",
+    "Subtitle": "Have questions or product needs? We’re happy to assist.",
+    "contact": "Contact Us",
+    "phone": "Phone",
+    "email": "Email",
+    "Title": "Most Popular Products",
+    "feature1": " Calibration Management System",
+    "feature2": "Customer Relationship Management",
+    "tagline1": "Boost Productivity with Reliable Calibration Management.",
+    "tagline2": "Know Your Customers. Build Trust. Grow Your Business.",
+    "LearnMore": "Learn more"
+  },
+  "ThankYou": {
+    "Title": "Thank You for Reaching Out!",
+    "Subtitle": "We appreciate you taking the time to contact us. Your enquiry is important to us and we're excited to assist you.",
+    "Review": "Under Review",
+    "para": "Our team is reviewing your message",
+    "Soon": "We'll Respond Soon",
+    "Expect": "Expect a reply within 24 hours",
+    "Home": "Return to Homepage",
+    "Chat": "Chat on WhatsApp",
+    "Explore": "Explore Our Products",
+    "need": "Need immediate assistance? Call us at",
+    "Success": "Success!",
+    "form": "Your form has been successfully submitted"
+  },
+  "Footer": {
+    "contactUs": "Contact Us",
+    "address": "#306, 2nd Floor, NSIC-Software Technology Business Park, B-24, Guindy Industrial Estate, Ekkatuthangal, Chennai-600032, India",
+    "links": {
+      "QuickLinks": "Quick Links",
+      "help": "Help",
+      "phone": "Phone",
+      "email": "Email",
+      "Features": "Features",
+      "Pricing": "Pricing",
+      "Clients": "Clients",
+      "Contact": "Contact Us",
+      "productEnquiry": "Product Enquiry",
+      "bookDemo": "Book A Demo",
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions"
+    },
+    "copyright": "© Copyright 2025, All Rights Reserved by "
+  },
+  "Popup": {
+    "Offer": "Limited Time Offer",
+    "Try": "Try Premium Free!",
+    "Get": "Get full access to our",
+    "Platform": "platform for 15 days",
+    "Free": "absolutely free!",
+    "All": "All Premium Features Included:",
+    "Project": "Project Management",
+    "Easily": "- Create and manage projects effortlessly",
+    "Task": "Task Management",
+    "Plan": "- Plan, assign, and track tasks with ease.",
+    "Team": "Team Collaboration",
+    "Communicate": "- Communicate and share updates in real time.",
+    "Advanced": "Advanced Reporting",
+    "Monitor": "- Monitor project progress and make informed decisions.",
+    "Start": "Start My Free Trial",
+    "Credit": "No credit card required",
+    "Cancel": "Cancel anytime • Full premium access • 15 days free",
+    "Book": "Book Your",
+    "Live": "Free Live Demo",
+    "Discover": "Simplify your project management with ACE Project. Stay on top of tasks, track progress, and work seamlessly with your team — book a demo now."
+  }
+}

@@ -1,0 +1,22 @@
+# Build settings for SPA
+[build]
+command = "npm run build"
+publish = ".next"
+
+# Settings for netlify hosting
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+# Redirect and proxy all requests starting with /app/
+# to app site on Netlify
+[[redirects]]
+  from = "/app/*"
+  to = "https://aceproject-app-acesoft.netlify.app/:splat"
+  status = 200
+  force = true
+
+# Fallback rule for SPA routing
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

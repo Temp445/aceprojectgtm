@@ -1,0 +1,286 @@
+{
+  "Menu": {
+    "CMS": "CMS",
+    "CMSTooltip": " Intelligente, semplice e fluido — calibrazione facilitata ",
+    "CRM": "CRM",
+    "CRMTooltip": "Conosci il tuo cliente. Fai crescere la tua azienda.",
+    "PPAP": "PPAP",
+    "PPAPTooltip": "Garantire qualità, ogni pezzo, ogni volta.",
+    "AllProducts": "Tutti i prodotti"
+  },
+  "Navbar": {
+    "Home": "Home",
+    "Features": "Funzionalità",
+    "Pricing": "Prezzi",
+    "BookDemo": "Prenota una demo",
+    "Brochure": "Brochure",
+    "Contact": "Contattaci",
+    "SignIn": "Accedi",
+    "AllProducts": "Tutti i prodotti"
+  },
+  "Hero": {
+    "Title": "Semplifica la gestione dei progetti per tutta la tua organizzazione",
+    "Description": "Pianifica in modo più intelligente, collabora senza sforzo e consegna i progetti più velocemente con il nostro software di gestione dei progetti all-in-one. Progettato per team di tutte le dimensioni, la nostra piattaforma aiuta a snellire i flussi di lavoro, monitorare l’avanzamento in tempo reale e mantenere l’intera organizzazione allineata — dalla pianificazione all’esecuzione.",
+    "Features": {
+      "ProjectTask": "Gestione Progetti e Attività",
+      "TeamMember": "Gestione dei Membri del Team",
+      "GanttChart": "Visualizzazione con Diagramma di Gantt"
+    },
+    "Buttons": {
+      "Contact": "Contattaci",
+      "Demo": "Guarda demo"
+    }
+  },
+  "WhyChoose": {
+    "Title": "Cos’è ",
+    "highlight": "la gestione dei progetti",
+    "Desc": "La gestione dei progetti è il processo di pianificazione, organizzazione e supervisione delle attività per raggiungere obiettivi specifici entro tempi e budget definiti. Comprende la gestione delle risorse, la coordinazione dei membri del team, la definizione delle scadenze e il monitoraggio dei progressi per garantire la riuscita del progetto.",
+    "Tagline": "Perché scegliere",
+    "MainHeading": "Il successo del tuo team inizia con AceProject",
+    "Subheading": "AceProject è più di un semplice strumento di gestione dei progetti — è una soluzione completa per aiutare il tuo team a restare organizzato, produttivo e puntuale.",
+    "P0": "Accesso sicuro basato sui ruoli",
+    "P1": "Perfetto per agenzie, startup e imprese",
+    "P2": "Gestione attività e collaborazione senza soluzione di continuità",
+    "P3": "Calendario, dashboard e Gantt integrati in un’unica piattaforma",
+    "P4": "Migliora le prestazioni del team con il riconoscimento dei migliori",
+    "P5": "Report dettagliati e analisi esportabili",
+    "LearnMore": "Scopri di più"
+  },
+  "Banner": {
+    "Title": "Pronto a semplificare i tuoi report di progetto?",
+    "Description": "Ottieni approfondimenti completi su progetti, team, attività e pianificazioni tutto in un unico posto.",
+    "bookDemo": "Inizia oggi"
+  },
+  "Advantages": {
+    "Title": "Funzionalità di Reportistica di Progetto",
+    "Description": "La reportistica di progetto è il processo di raccolta, analisi e condivisione di informazioni chiave sullo stato, i progressi, le prestazioni e i risultati di un progetto con gli stakeholder. Aiuta a garantire trasparenza, decisioni informate e responsabilità durante l'intero ciclo di vita del progetto.",
+    "Projects": {
+      "Title": "Gantt Chart Intelligente per il Progresso Visivo del Progetto",
+      "Description": "Gestisci i progetti in modo più intelligente con monitoraggio in tempo reale, evidenziazione dei migliori membri e un diagramma di Gantt interattivo—tutto in una vista unificata del progetto."
+    },
+    "ProjectReport": {
+      "Title": "Analisi e Report di Progetto Basati su Insight",
+      "Description": "Il Report di Progetto riassume i progetti in corso e completati, mostrando tassi di completamento, utilizzo delle risorse e stato in tempo reale per aiutare i team a monitorare i progressi, identificare i colli di bottiglia e prendere decisioni in modo efficiente."
+    },
+    "TeamReport": {
+      "Title": "Analisi Intelligente del Team e Report sulle Prestazioni",
+      "Description": "Monitora le prestazioni del team, analizza la distribuzione del carico di lavoro e misura i contributi individuali con insight chiari e attuabili per aumentare la produttività."
+    },
+    "TaskReport": {
+      "Title": "Report su Prestazioni e Tendenze dei Compiti",
+      "Description": "Ottieni una visione chiara dello stato dei compiti, dei livelli di priorità, dei tassi di completamento e delle tendenze delle prestazioni per mantenere il controllo sulla produttività e sulle scadenze del team."
+    },
+    "CalendarReport": {
+      "Title": "Report del Calendario con Mappa di Calore delle Attività e Scadenze",
+      "Description": "Visualizza l'attività del team, traccia i modelli di scadenze per giorno e monitora la disponibilità delle risorse—tutto in un unico report di calendario intelligente progettato per ottimizzare la pianificazione e la produttività."
+    },
+    "ClientsTitle": "Marchi che si fidano di noi"
+  },
+  "Features": {
+    "Heading": "Cosa offriamo",
+    "Description": "AceProject aiuta il tuo team a pianificare meglio, collaborare senza sforzo e consegnare in tempo con gestione intuitiva delle attività, monitoraggio in tempo reale e comunicazione efficiente — aumentando la produttività per progetti di qualsiasi dimensione.",
+    "List": [
+      {
+        "Title": "Gestione Multi-Progetto",
+        "Description": "Crea e supervisiona facilmente più progetti con controllo centralizzato per organizzazione fluida."
+      },
+      {
+        "Title": "Assegnazione e Monitoraggio Dettagliato delle Attività",
+        "Description": "Definisci attività dettagliate all’interno dei progetti, assegnale ai membri del team e monitora i progressi, le scadenze e i tassi di completamento."
+      },
+      {
+        "Title": "Gestione Membri del Team con Ruoli",
+        "Description": "Gestisci utenti con ruoli personalizzabili come Amministratore e Membro, garantendo accesso sicuro e appropriato."
+      },
+      {
+        "Title": "Allocazione del Team per Progetto",
+        "Description": "Assegna membri specifici a progetti con permessi basati sui ruoli per ottimizzare collaborazione e responsabilità."
+      },
+      {
+        "Title": "Diagramma di Gantt Interattivo",
+        "Description": "Visualizza timeline, durata, dipendenze e scadenze dei progetti con diagrammi di Gantt dinamici e facili da leggere."
+      },
+      {
+        "Title": "Metriche di Prestazione Configurabili",
+        "Description": "Imposta e regola parametri di prestazione per valutare il contributo del team in base a completamento, qualità e puntualità."
+      },
+      {
+        "Title": "Identificazione Automatica dei Migliori",
+        "Description": "Evidenzia automaticamente i membri più performanti che rispettano le scadenze e consegnano lavori di qualità."
+      },
+      {
+        "Title": "Cruscotti Informativi",
+        "Description": "Accedi a dashboard completi con visualizzazione di progetti attivi, statistiche del team, scadenze imminenti e attività in ritardo."
+      },
+      {
+        "Title": "Report Personalizzati e Analisi",
+        "Description": "Genera report dettagliati e insight utili per analizzare la salute dei progetti, la produttività del team e individuare aree di miglioramento."
+      }
+    ]
+  },
+  "Pricing": {
+    "Title": "Opzioni di Abbonamento",
+    "Subtitle": "Scegli il piano giusto per gestire attività, team e tempistiche.",
+    "Yearly": "annuale",
+    "user": "utente",
+    "Monthly": "mensile",
+    "ContactUs": "Contattaci",
+    "Plans": {
+      "name1": "Standard",
+      "desc1": "Strumenti essenziali per gestire i progetti con facilità e chiarezza.",
+      "button1": "Abbonati ora",
+      "name2": "Premium",
+      "desc2": "Strumenti avanzati per una migliore collaborazione e controllo",
+      "tag2": "Upgrade Intelligente",
+      "name3": "Enterprise",
+      "desc3": "Controllo totale, analisi approfondite e supporto premium — progettato per scalare.",
+      "button3": "Contattaci",
+      "tag3": "Accesso Elite",
+      "Enterprisefeatures": [
+        "Tutto ciò che è incluso nel piano Premium.",
+        "Completamente personalizzabile secondo le tue esigenze.",
+        "Soluzioni su misura — parliamone"
+      ]
+    },
+    "FeaturesTitle": "Funzionalità chiave:",
+    "Featureslist": {
+      "Unlimited": "Illimitato",
+      "Notification": "Notifiche, Aggiornamento Best Performer",
+      "fileSharing": "Commenti sulle attività, Condivisione file",
+      "Chat": "Supporto via chat",
+      "DocSharing": "Commenti sulle attività, Condivisione documenti",
+      "Priority": "Supporto prioritario / Email / Chat",
+      "Projects": "Progetti",
+      "Storage": "Spazio di archiviazione",
+      "Task": "Gestione attività",
+      "Time": "Monitoraggio tempo",
+      "Gantt": "Diagramma di Gantt",
+      "Custom": "Workflow personalizzati",
+      "Reporting": "Report",
+      "Integrations": "Integrazioni",
+      "collaboration": "Funzionalità di collaborazione",
+      "File": "Allegati",
+      "App": "App mobile",
+      "Support": "Supporto"
+    },
+    "Toggle": {
+      "ShowFeatures": "Mostra funzionalità",
+      "ReadMore": "Leggi di più",
+      "ShowLess": "Mostra meno"
+    }
+  },
+  "Testimonial": {
+    "Title": "Feedback autentici dei clienti",
+    "name1": "Sathya",
+    "name2": "Arun Kumar",
+    "name3": "Vignesh",
+    "Quote1": "Abbiamo valutato diverse piattaforme prima di scegliere questa. Scalabilità, profondità delle funzionalità e supporto clienti emergono davvero. È una svolta nella supervisione dei progetti su larga scala.",
+    "Quote2": "Gestire più progetti e membri del team era un mal di testa. Ora tutto è in un unico posto — dalle assegnazioni alle scadenze — e il nostro team è più allineato che mai.",
+    "Quote3": "Come azienda in crescita, avevamo bisogno di uno strumento semplice, potente ed economico. Questa piattaforma ci aiuta a restare in pista senza rallentarci. È diventata essenziale nel nostro flusso di lavoro quotidiano."
+  },
+  "Contact": {
+    "Title": "Mettiamoci in contatto e ",
+    "highlight": "prenota la tua demo ora!",
+    "code": "IT",
+    "Form": {
+      "Name": "Nome",
+      "Company": "Nome azienda",
+      "Email": "Email professionale",
+      "Phone": "Numero di cellulare",
+      "Location": "Posizione",
+      "Product": "Prodotto di interesse",
+      "Queries": "Domande",
+      "Submit": "Invia",
+      "Submitting": "Invio in corso…",
+      "EmailError": "Inserisci un indirizzo email valido.",
+      "PhoneError": "Inserisci un numero di telefono valido."
+    },
+    "ContactInfo": {
+      "Title": "Informazioni di contatto",
+      "EmailUs": "Scrivici via email",
+      "CallUs": "Chiamaci",
+      "Hours": "Lun‑Sab dalle 10:00 alle 18:30",
+      "VisitUs": "Vieni a trovarci",
+      "Address": "#306, 2° piano NSIC - Business Park della Tecnologia del Software, B 24, Zona Industriale di Guindy, Ekkatuthangal, Chennai - 600032"
+    },
+    "Messages": {
+      "Failure": "C’è stato un problema nell’invio del messaggio. Riprova più tardi.",
+      "ValidationUnavailable": "Servizio di convalida email non disponibile."
+    }
+  },
+  "Notification": {
+    "button": "Prenota una demo",
+    "contact": "Contattaci",
+    "para": "Compila il modulo e un esperto di prodotto qualificato ti contatterà a breve per comprendere le tue esigenze e consigliarti la soluzione più adatta per la tua azienda.",
+    "write": "Puoi anche scriverci a:"
+  },
+  "CallbackCard": {
+    "Heading": "Hai bisogno di aiuto per trovare ciò di cui hai bisogno?",
+    "highlight": "prodotto giusto",
+    "Subtitle": "Hai domande o necessità di prodotto? Siamo felici di aiutarti.",
+    "contact": "Contattaci",
+    "phone": "Telefono",
+    "email": "Email",
+    "Title": "Prodotti più popolari",
+    "feature1": "Sistema di gestione della calibrazione",
+    "feature2": "Gestione delle relazioni con i clienti",
+    "tagline1": "Aumenta la produttività con una gestione della calibrazione affidabile.",
+    "tagline2": "Conosci i tuoi clienti. Crea fiducia. Fai crescere il tuo business.",
+    "LearnMore": "Scopri di più"
+  },
+  "ThankYou": {
+    "Title": "Grazie per averci contattato!",
+    "Subtitle": "Apprezziamo che tu abbia dedicato del tempo per contattarci. La tua richiesta è importante per noi e siamo entusiasti di poterti aiutare.",
+    "Review": "In revisione",
+    "para": "Il nostro team sta esaminando il tuo messaggio",
+    "Soon": "Risponderemo presto",
+    "Expect": "Attendi una risposta entro 24 ore",
+    "Home": "Torna alla homepage",
+    "Chat": "Chatta su WhatsApp",
+    "Explore": "Esplora i nostri prodotti",
+    "need": "Hai bisogno di assistenza immediata? Chiamaci",
+    "Success": "Successo!",
+    "form": "Il tuo modulo è stato inviato con successo"
+  },
+  "Footer": {
+    "contactUs": "Contattaci",
+    "address": "#306, 2° Piano, NSIC - Software Technology Business Park, B-24, Guindy Industrial Estate, Ekkatuthangal, Chennai-600032, India",
+    "links": {
+      "QuickLinks": "Collegamenti Rapidi",
+      "help": "Aiuto",
+      "phone": "Telefono",
+      "email": "Email",
+      "Features": "Funzionalità",
+      "Pricing": "Prezzi",
+      "Clients": "Clienti",
+      "Contact": "Contattaci",
+      "productEnquiry": "Richiesta Prodotto",
+      "bookDemo": "Prenota una Demo",
+      "privacy": "Informativa sulla Privacy",
+      "terms": "Termini e Condizioni"
+    },
+    "copyright": "© Copyright 2025, Tutti i diritti riservati "
+  },
+  "Popup": {
+    "Offer": "Offerta a tempo limitato",
+    "Try": "Prova Premium Gratis!",
+    "Get": "Ottieni accesso completo alla nostra",
+    "Platform": "piattaforma per 15 giorni",
+    "Free": "assolutamente gratuita!",
+    "All": "Tutte le funzionalità Premium incluse:",
+    "Project": "Gestione dei progetti",
+    "Easily": "- Crea e gestisci i progetti facilmente",
+    "Task": "Gestione delle attività",
+    "Plan": "- Pianifica, assegna e monitora le attività con facilità",
+    "Team": "Collaborazione di squadra",
+    "Communicate": "- Comunica e condividi aggiornamenti in tempo reale",
+    "Advanced": "Report avanzati",
+    "Monitor": "- Monitora i progressi del progetto e prendi decisioni informate",
+    "Start": "Inizia la mia prova gratuita",
+    "Credit": "Non è richiesta la carta di credito",
+    "Cancel": "Annulla in qualsiasi momento • Accesso premium completo • 15 giorni gratuiti",
+    "Book": "Prenota la tua",
+    "Live": "Demo live gratuita",
+    "Discover": "Semplifica la gestione dei progetti con ACE Project. Tieni sotto controllo le attività, monitora i progressi e lavora senza problemi con il tuo team — prenota una demo ora."
+  }
+}
