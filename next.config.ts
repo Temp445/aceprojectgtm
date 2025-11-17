@@ -4,7 +4,7 @@ import createNextIntlPlugin from 'next-intl/plugin';
 const basePath = '/products/ace-project-management-software';
 
 const nextConfig: NextConfig = {
-  basePath,
+  // basePath,
   trailingSlash: true,
   images: {
     remotePatterns: [

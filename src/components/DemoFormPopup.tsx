@@ -46,11 +46,11 @@ const DemoFormPopup: React.FC<DemoFormPopupProps> = ({ onClose }) => {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email }),
       });
-      if (response.status !== 200) return t("EmailError");
+      if (response.status !== 200) return t("Form.EmailError");
 
       const data = await response.json();
       if (data.success) {
-        return data.isValid ? "" : t("EmailError");
+        return data.isValid ? "" : t("Form.EmailError");
       } else {
         return `Failed: ${data.error}`;
       }
@@ -218,7 +218,7 @@ const DemoFormPopup: React.FC<DemoFormPopupProps> = ({ onClose }) => {
                 defaultCountry={countryCode}
                 value={phone}
                 onChange={setPhone}
-                className="text-sm border border-gray-700 rounded p-2 bg-transparent focus:ring-2 focus:ring-green-500 outline-none"
+                className="text-sm border border-gray-700 rounded p-2 bg-transparent focus:ring-2 focus:ring-green-500 outline-none  [&>input]:outline-none [&>input]:bg-transparent"
               />
               {phoneError && (
                 <p className="text-red-500 text-xs mt-1">{phoneError}</p>
